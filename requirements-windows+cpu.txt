@@ -1,0 +1,5 @@
+d2l
+ipykernel
+keras
+torch
+torchvision

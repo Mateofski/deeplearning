@@ -1,0 +1,4 @@
+d2l
+ipykernel
+keras
+-r pytorch-nvidia.txt
