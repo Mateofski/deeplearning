@@ -4,14 +4,6 @@ This repository contains deep learning examples for CNN, RNN and GAN.
 
 # Dependencies
 
-* [**Python**](https://www.python.org/)
-* [**Pytorch**](https://pytorch.org/)
-* [**Matplotlib**](https://matplotlib.org/)
-* [**Pillow**](https://pillow.readthedocs.io/)
-* [**Scipy**](https://www.scipy.org/)
-
-</br>
-
 Create a virtual environment using the following commands:
 ```shell
 $ python -m venv .env
